@@ -428,3 +428,5 @@ angularLocalStorage.provider('localStorageService', function() {
     };
   }];
 });
+
+module.exports = angularLocalStorage.name;
